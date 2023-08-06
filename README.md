@@ -1,1 +1,1 @@
-# kafka-microservices
+# kafka-microservices-server
