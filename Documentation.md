@@ -30,8 +30,12 @@ and subscription) essential for a Youtube-liked platform.
 1. What is Apache kafka
 - See how Apache Kafka explain: https://www.youtube.com/watch?v=vHbvbwSEYGo
 - Also, event streaming processing is helpful to explain why we use Kafka: https://www.confluent.io/learn/event-streaming/#:~:text=Event%20stream%20processing%20(ESP)%20is,and%20operate%20as%20events%20occur.
-- 
+  
 2. Set up your Apache Kafka
+- Refer to this docs: https://kafka.apache.org/downloads, install kafka and export .zip folder. (should use `tar xvf kafka_version` instead of normally exporting it with Windows tool).
+  
 ### Run your kafkfa service at your local (Windows)
 - Start Zookeeper Service: ` ./bin/windows/zookeeper-server-start.bat config/zookeeper.properties`
+- Start Kafka server: `./bin/windows/kafka-server-start.bat config/server.properties`
+- One of these, if not working, please check C:\tmp, which is the directory where kafka-logs and zookeeper were created and delete them, then, restart previous steps.
 ### Test with Postman
