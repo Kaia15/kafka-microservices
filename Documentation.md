@@ -33,5 +33,5 @@ and subscription) essential for a Youtube-liked platform.
 - 
 2. Set up your Apache Kafka
 ### Run your kafkfa service at your local (Windows)
-
+- Start Zookeeper Service: ` ./bin/windows/zookeeper-server-start.bat config/zookeeper.properties`
 ### Test with Postman
