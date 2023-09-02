@@ -9,8 +9,10 @@ and subscription) essential for a Youtube-liked platform.
 
 > B subscribe to A => A has subscriber B, and B has subscriber A, A was subscribed by B.
 
-![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/74fefa0e-ae99-41af-a22e-27076c57b381) | ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/80dc490b-1f43-486a-80a7-d564c9d7e610)
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/898ed67e-0461-4fa5-9984-624793b62897)
+ | ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/27516489-b2da-497e-9ad4-13234e4c464b)
 
 ### 1. Send notification email to new user (new subscriber) - Server 
 
