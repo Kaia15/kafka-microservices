@@ -11,8 +11,7 @@ and subscription) essential for a Youtube-liked platform.
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/898ed67e-0461-4fa5-9984-624793b62897)
- | ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/27516489-b2da-497e-9ad4-13234e4c464b)
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/898ed67e-0461-4fa5-9984-624793b62897) | ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/27516489-b2da-497e-9ad4-13234e4c464b)
 
 ### 1. Send notification email to new user (new subscriber) - Server 
 
