@@ -1,5 +1,6 @@
 # UtubeServices
 > for naming error, subscribee = who got subscribed from their subscribers, which means they are one of channel owners, and have their subscribers from their channels.
+
 > B subscribe to A => A has subscriber B, and B has subscriber A, A was subscribed by B.
 
 ### 1. Send notification email to new user (new subscriber) - Server 
