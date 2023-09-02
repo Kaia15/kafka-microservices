@@ -1,4 +1,10 @@
 # UtubeServices
+
+## Overview
+- Created a RESTful backend server using Spring Boot, comprising 4 crucial microservices (email, user, notification,
+and subscription) essential for a Youtube-liked platform.
+- Enabled real-time notifications for users using Kafka (Kafka topic, producer, consumer).
+  
 > for naming error, subscribee = who got subscribed from their subscribers, which means they are one of channel owners, and have their subscribers from their channels.
 
 > B subscribe to A => A has subscriber B, and B has subscriber A, A was subscribed by B.
