@@ -18,3 +18,11 @@
 ### 4. Automatic email to alert new updates (password reset, linked-email update)
 
 ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/e394b1f3-6a60-4c63-87c0-657fb20ea6cd)
+
+### Automatically update subscriber and subscribee count (information) with streaming kafka 
+
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/ab12e2ce-f3fe-4c85-bd82-7d77b7861347)
+
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/5cddf92f-5137-4c1a-a37a-8a4a207e64aa)
+
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/fb4003e1-8fe2-42b5-9605-bd24c1cec4e0)
