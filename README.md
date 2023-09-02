@@ -32,3 +32,7 @@ and subscription) essential for a Youtube-liked platform.
 ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/5cddf92f-5137-4c1a-a37a-8a4a207e64aa)
 
 ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/fb4003e1-8fe2-42b5-9605-bd24c1cec4e0)
+
+### 6. The collaboration of three services to send notification, create subscription and update subscribers at same time.
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/ac7302a0-6481-459b-9ac1-17625114a76d)
+
