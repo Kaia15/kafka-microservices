@@ -19,7 +19,7 @@
 
 ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/e394b1f3-6a60-4c63-87c0-657fb20ea6cd)
 
-### Automatically update subscriber and subscribee count (information) with streaming kafka 
+### 5. Automatically update subscriber and subscribee count (information) with streaming kafka 
 
 ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/ab12e2ce-f3fe-4c85-bd82-7d77b7861347)
 
