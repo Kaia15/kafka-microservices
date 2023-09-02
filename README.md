@@ -1,5 +1,5 @@
 # kafka-microservices-server
-https://user-images.githubusercontent.com/86872685/265163431-35c48256-ccd9-4ebc-ba9a-9bce9ab946ee.png
-https://user-images.githubusercontent.com/86872685/265163444-9a90a56c-6346-48c2-9f5d-64c63ad3288d.png
-https://user-images.githubusercontent.com/86872685/265163449-9bae9d83-5cda-4718-846a-1629fd115da2.png
-https://user-images.githubusercontent.com/86872685/265163455-34ebffe9-1e06-4901-b986-b0836d3fb426.png
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/cdf040f4-f846-4b19-b025-1d9df008c012)
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/798a656b-b490-4016-98cf-a879ecaf015f)
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/18e547c7-865e-4a64-b2da-50f2bbc4ee14)
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/e394b1f3-6a60-4c63-87c0-657fb20ea6cd)
