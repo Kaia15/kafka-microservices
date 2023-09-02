@@ -1,5 +1,11 @@
 # Spring Boot & Kafka Microservices Documentation
 
+## Overview
+
+- Created a RESTful backend server using Spring Boot, comprising 4 crucial microservices (email, user, notification,
+and subscription) essential for a Youtube-liked platform.
+- Enabled real-time notifications for users using Kafka (Kafka topic, producer, consumer).
+
 ### 1. Set up your spring boot
 
 Set up database at your local
