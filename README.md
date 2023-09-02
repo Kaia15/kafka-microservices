@@ -1,5 +1,5 @@
 # UtubeServices
-[for naming error, subscribee = who got subscribed from our subscriber, which means they are one of channel owners, and have their subscribers from their channels].
+`for naming error, subscribee = who got subscribed from our subscriber, which means they are one of channel owners, and have their subscribers from their channels`.
 
 ### 1. Send notification email to new user (new subscriber) - Server 
 
