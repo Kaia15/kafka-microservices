@@ -13,8 +13,10 @@ Set up your application
 - Some packages added to download: PomXML, data-jbc, jpa, SQL (Postgresql, MySQL), rest, web, etc.
 - After installation, export .zip folder and open in VSCode.
 - Ctrl + P, type application.properties => open this file and add the following information:
-> spring.datasource.url=jdbc:postgresql://localhost:5432/userdb 
+> spring.datasource.url=jdbc:postgresql://localhost:5432/userdb
+
 > spring.datasource.username=postgres
+
 > spring.datasource.password=197515
 - Test: Write a sample controller called `GreetingController.java` to see the application run well or not.
 
