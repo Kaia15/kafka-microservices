@@ -11,8 +11,7 @@ and subscription) essential for a Youtube-liked platform.
 
 Kafka             |  REST Api(s) & Kafka
 :-------------------------:|:-------------------------:
-![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/5084f154-b4b3-4cbe-9209-38bebb0961d2)
- | ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/4fd569db-c126-4042-b5aa-7944c2f0be6c)
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/5084f154-b4b3-4cbe-9209-38bebb0961d2) | ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/4fd569db-c126-4042-b5aa-7944c2f0be6c)
 
 ### 1. Send notification email to new user (new subscriber) - Server 
 
