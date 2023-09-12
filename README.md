@@ -40,4 +40,5 @@ Kafka             |  REST Api(s) & Kafka
 ### 6. The collaboration of three services to send notification, create subscription and update subscribers at same time.
 ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/ac7302a0-6481-459b-9ac1-17625114a76d)
 ![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/4c9fa9cd-6c4a-4f35-bc85-2a2ad2dce97e)
+![image](https://github.com/Kaia15/kafka-microservices/assets/86872685/9b991bd2-4af1-428d-9ad9-2b9dd5afdbb0)
 
